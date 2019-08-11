@@ -13,6 +13,7 @@ Server Side Rendering (SSR)
 
 - fetch api
   + add library : npm install isomorphic-unfetch
+  + nameComponent.getInitialProps = asyn ()=>({...props})
 
 - Deyloy
   + https://zeit.co/now
