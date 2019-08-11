@@ -16,3 +16,6 @@ Server Side Rendering (SSR)
 
 - Deyloy
   + https://zeit.co/now
+    Trực tiếp
+    [+] npm install -g now
+    [+] go to source and run : now 
